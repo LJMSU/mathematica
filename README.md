@@ -1,3 +1,3 @@
-# geometron
+# mathemajs
 
-A JavaScript package for contructing and calculating shapes.
+A JavaScript package for mathematical operations.
