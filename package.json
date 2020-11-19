@@ -1,0 +1,21 @@
+{
+  "name": "mathematica",
+  "version": "0.1.0",
+  "description": "A JavaScript package for mathematical operations.",
+  "keywords": [
+    "math",
+    "mathematics",
+    "geometry",
+    "shapes",
+    "meth"
+  ],
+  "homepage": "https://github.com/LJMSU/mathematica#readme",
+  "bugs": "https://github.com/LJMSU/mathematica/issues",
+  "license": "MIT",
+  "author": "ljmsu <ljmsu65@gmail.com>",
+  "main": "source/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LJMSU/mathematica.git"
+  }
+}
