@@ -1,13 +1,12 @@
 {
   "name": "mathematica",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A JavaScript package for mathematical operations.",
   "keywords": [
     "math",
     "mathematics",
     "geometry",
-    "shapes",
-    "meth"
+    "shapes"
   ],
   "homepage": "https://github.com/LJMSU/mathematica#readme",
   "bugs": "https://github.com/LJMSU/mathematica/issues",
